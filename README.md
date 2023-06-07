@@ -15,9 +15,4 @@
             <li>Operating Systems: Linux, Windows</li>
         </ul>
     </div>
-    <div>
-        <a href="https://app.daily.dev/MDBeater">
-            <img src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?r=vns" width="800" alt="Huynh Dan's Dev Card"/>
-        </a>
-    </div>
 </div>
