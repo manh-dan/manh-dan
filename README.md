@@ -10,7 +10,7 @@
             <li>Programming Languages: PHP, JavaScript</li>
             <li>Frameworks: Laravel, React, Vue</li>
             <li>CMS: WordPress</li>
-            <li>Development Environment: Docker</li>
+            <li>Development Environment: Docker, Vagrant</li>
             <li>Databases: MySQL, MongoDB</li>
             <li>Operating Systems: Linux, Windows</li>
         </ul>
