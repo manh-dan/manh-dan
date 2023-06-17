@@ -23,7 +23,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?v=1"
+      src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?v=12"
     />
   </a>
 </div>
