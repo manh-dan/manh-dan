@@ -23,14 +23,14 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?v=12"
+      src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?v=123"
     />
   </a>
 </div>
 
 ## I am Huynh Manh Dan
 
-I'm a PHP (Laravel) professional web developer with extensive experience in web application development. Additionally, I have expertise in React and Vue, two widely used frameworks for creating dynamic user interfaces.
+I'm a PHP (Laravel) professional web developer with extensive experience in web application development. Additionally, I have expertise in React, one widely used frameworks for creating dynamic user interfaces.
 
 ## Core Skills
 
