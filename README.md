@@ -19,7 +19,13 @@
     />
   </a>
 
-  <a href="https://app.daily.dev/mdbeater"><img src="https://api.daily.dev/devcards/v2/NhxroW8XdEfMeItZWE36u.png?type=default&r=9w2" width="356" alt="Huynh Dan's Dev Card"/></a>
+  <a href="https://app.daily.dev/mdbeater" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/v2/NhxroW8XdEfMeItZWE36u.png?type=default&r=9w2"
+    />
+  </a>
 </div>
 
 ## I am Huynh Manh Dan
