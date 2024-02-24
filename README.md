@@ -19,13 +19,7 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/9f6c975959894ba88fdb1ca9f29c627b.png?v=123"
-    />
-  </a>
+  <a href="https://app.daily.dev/mdbeater"><img src="https://api.daily.dev/devcards/v2/NhxroW8XdEfMeItZWE36u.png?type=default&r=9w2" width="356" alt="Huynh Dan's Dev Card"/></a>
 </div>
 
 ## I am Huynh Manh Dan
