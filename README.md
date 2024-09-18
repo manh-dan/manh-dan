@@ -40,5 +40,6 @@ I'm a PHP (Laravel) professional web developer with extensive experience in web 
     <li>CMS: WordPress</li>
     <li>Development Environment: Docker, Vagrant</li>
     <li>Databases: MySQL, MongoDB</li>
+    <li>Cloud Service: AWS, Oracle</li>
     <li>Operating Systems: Linux, Windows</li>
 </ul>
