@@ -36,7 +36,7 @@ I'm a PHP (Laravel) professional web developer with extensive experience in web 
 
 <ul>
     <li>Programming Languages: PHP, JavaScript</li>
-    <li>Frameworks: Laravel, React</li>
+    <li>Frameworks: Laravel, ReactJS, React Native, VueJS</li>
     <li>CMS: WordPress</li>
     <li>Development Environment: Docker, Vagrant</li>
     <li>Databases: MySQL, MongoDB</li>
