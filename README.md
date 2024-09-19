@@ -35,7 +35,7 @@ I'm a PHP (Laravel) professional web developer with extensive experience in web 
 ## Core Skills
 
 <ul>
-    <li>Programming Languages: PHP, JavaScript</li>
+    <li>Programming Languages: PHP, Python, JavaScript</li>
     <li>Frameworks: Laravel, ReactJS, VueJS</li>
     <li>CMS: WordPress</li>
     <li>Development Environment: Docker, Vagrant</li>
